@@ -1,0 +1,5 @@
+1. Pedir ao usuário um número para ser a altura da pirâmide.
+2. Conferir se o número é maior que 1 e menor igual a 8.
+    2.1. Se o número não estiver dentro da condição repetir a pergunta.
+3. Itere a varável i até o tamanho da altura da pirâmide.
+4.Imrpima os #
